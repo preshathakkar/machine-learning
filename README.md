@@ -1,10 +1,10 @@
-# machine-learning
+# Machine Learning
 Machine Learning Problems solved using Apache Spark
 
 This Repository consists of several different machine learning problems that were solved with Apache Spark and converted in python scripts.
 
 1. Apache Log Analysis (nasa-apache-log.py) : 
-  The Apache Logs from Nasa'a website are analysized to find specific data such as Top URLs which return 404 errors, Average number of daily requests per hosts, Average Daily Requests per Unique Host, Number of unique daily hosts, etc.
+  The Apache Logs from Nasa's website are analysized to find specific data such as Top URLs which return 404 errors, Average number of daily requests per hosts, Average Daily Requests per Unique Host, Number of unique daily hosts, etc.
   This would help to design better servers and also help in analysizing requests from users to provide more relevant data.
 
 2. Prediction With Linear Regression (linear-reg-UCI.py) :
